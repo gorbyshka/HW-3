@@ -4,7 +4,6 @@ const secTime = 3600;
 
 const resultTime = hourTime * secTime;
 
-const finalValuet = resultTime;
+const finalValue = resultTime;
 
-alert(finalValuet + ' cекунд');
-
+alert(finalValue + ' cекунд');
